@@ -45,6 +45,7 @@ Add-AzureADGroupMember
 ###### Portal & Entra
 TO EASY TO WRITE - need Azure AD Prem 2
 
+####### Powershell
 ```powershell
 #list
 Get-MgUserAuthenticationPhoneMethod
